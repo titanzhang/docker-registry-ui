@@ -1,6 +1,6 @@
 # About this REPO
-It's been forked from [docker-registry-ui](https://github.com/Joxit/docker-registry-ui).
-Changed the base image to debian, so that it can be ported to Raspbian.
+It's been forked from [docker-registry-ui](https://github.com/Joxit/docker-registry-ui).  
+Modified the base image to debian, so that it can be ported to Raspbian.
 
 # Original README
 ## Overview
