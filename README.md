@@ -1,5 +1,8 @@
-# Docker Registry UI
+# About this REPO
+It's been forked from [docker-registry-ui](https://github.com/Joxit/docker-registry-ui).
+Changed the base image to debian, so that it can be ported to Raspbian.
 
+# Original README
 ## Overview
 
 This project aims to provide a user interface for your private docker registry v2.
